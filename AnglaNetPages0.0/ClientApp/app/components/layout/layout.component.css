@@ -1,0 +1,14 @@
+﻿button { /* это ена самом деле тег а*/
+    padding: 10px;
+    background-color: lightskyblue;
+    text-decoration: none;
+    color: mediumblue;
+}
+
+a:hover {
+    background-color: powderblue;
+}
+
+.selected {
+    background-color: red;
+}
